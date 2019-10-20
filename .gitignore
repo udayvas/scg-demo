@@ -1,3 +1,12 @@
+target/
+tmp/
+.settings
+.classpath
+.eclipse
+.sts
+.DS*
+.project
+
 # Compiled class file
 *.class
 

@@ -1,5 +1,6 @@
 target/
 tmp/
+.factorypath
 .settings
 .classpath
 .eclipse
